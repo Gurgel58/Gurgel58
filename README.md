@@ -2,9 +2,13 @@
   <img src="https://images.unsplash.com/photo-1642775196125-38a9eb496568?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D/download?force=true&w=1200" alt="Banner de Redes" width="100%" />
 </p>
 
-![Linux](https://img.shields.io/badge/Linux-Fedora-blue) ![Linux](https://img.shields.io/badge/Linux-OpenSUSE-mint) ![Linux](https://img.shields.io/badge/Linux-Debian-red) ![Linux](https://img.shields.io/badge/Linux-Mint-green) ![Linux](https://img.shields.io/badge/Windows-7/10/11-cyan)
+![Linux](https://img.shields.io/badge/Linux-Fedora-blue)  ![Linux](https://img.shields.io/badge/Linux-OpenSUSE-mint)  ![Linux](https://img.shields.io/badge/Linux-Debian-red)  ![Linux](https://img.shields.io/badge/Linux-Mint-green) 
 
-![Static Badge](https://img.shields.io/badge/Python-orange)   ![Static Badge](https://img.shields.io/badge/Basic-cyan)   ![Static Badge](https://img.shields.io/badge/Forth-gray)   ![Static Badge](https://img.shields.io/badge/Telecomunications-magenta)
+![Static Badge](https://img.shields.io/badge/Learning-Python-orange)   ![Static Badge](https://img.shields.io/badge/PlayWith-Basic-cyan)   ![Static Badge](https://img.shields.io/badge/Reading-Forth-violet)   
+
+![Static Badge](https://img.shields.io/badge/MSDOS-magenta)  ![Static Badge](https://img.shields.io/badge/Windows-7/10/11-cyan)
+
+
               
  
 ## 👨‍💻 [Alexandre Gurgel](https://www.linkedin.com/in/alexandre-gurgel-amaral) | Técnico & Analista em Telecomunicações 
