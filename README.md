@@ -5,8 +5,9 @@
 ![Linux](https://img.shields.io/badge/Linux-Fedora-blue) ![Linux](https://img.shields.io/badge/Linux-OpenSUSE-mint) ![Linux](https://img.shields.io/badge/Linux-Debian-red) ![Linux](https://img.shields.io/badge/Linux-Mint-green) ![Linux](https://img.shields.io/badge/Windows-7/10/11-cyan)
 
 ![Static Badge](https://img.shields.io/badge/Python-orange)   ![Static Badge](https://img.shields.io/badge/Basic-cyan)   ![Static Badge](https://img.shields.io/badge/Forth-gray)   ![Static Badge](https://img.shields.io/badge/Telecomunications-magenta)
-
-# 👨‍💻 Alexandre | Técnico & Analista em Telecomunicações
+              
+ 
+## 👨‍💻 [Alexandre Gurgel](https://www.linkedin.com/in/alexandre-gurgel-amaral) | Técnico & Analista em Telecomunicações 
 
 Sou Técnico em Telecomunicações e Eletrotécnica com experiência de campo e bastidores — do backbone à infraestrutura local. Ao longo da jornada, atuei com gerenciamento de redes, recuperação e reconfiguração de circuitos de voz/dados, além de treinar equipes e criar processos operacionais sob medida.
 
@@ -19,6 +20,9 @@ Tenho perfil analítico, gosto de resolver pepinos complexos, otimizar redes e m
 - Liderança Técnica e Treinamento de Equipes  
 - Recondicionamento de Equipamentos  
 - Automação e Scripts (em aprendizado com Python)
+
+  
+
 
 ---
 
