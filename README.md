@@ -15,7 +15,7 @@
 
 Sou Técnico em Telecomunicações e Eletrotécnica com experiência de campo e bastidores — do backbone à infraestrutura local. Ao longo da jornada, atuei com gerenciamento de redes, recuperação e reconfiguração de circuitos de voz/dados, além de treinar equipes e criar processos operacionais sob medida.
 
-Tenho perfil analítico, gosto de resolver pepinos complexos, otimizar redes e mergulhar em novas tecnologias. Sempre em busca de aprender algo novo (atualmente estudando Python 🐍), com foco em inovação e evolução contínua.
+Tenho perfil analítico, gosto de resolver problemas complexos, otimizar redes e mergulhar em novas tecnologias. Sempre em busca de aprender algo novo (atualmente estudando Python 🐍), com foco em inovação e evolução contínua.
 
 ### ⚙️ Tecnologias e Skills
 - Redes de Telecom (Backbone, Circuitos, Voz/Dados)  
@@ -24,6 +24,16 @@ Tenho perfil analítico, gosto de resolver pepinos complexos, otimizar redes e m
 - Liderança Técnica e Treinamento de Equipes  
 - Recondicionamento de Equipamentos  
 - Automação e Scripts (em aprendizado com Python)
+
+### :chart_with_upwards_trend: Últimas certificações
+- IA Generativa – Santander Open Academy (2025)
+- Fundamentos de ChatGPT – Santander Open Academy (2025)
+- Fundamentos de Python – Santander Open Academy (2025)
+- Excel – Santander Open Academy (2025)
+- Gestão de Infraestrutura de T.I. – Fiap (2025)
+- Fundamentos de Linux – Fiap (2025)
+- Python – Fiap (2025)
+- Liderança – Santander Open Academy (2025)
 
   
 
