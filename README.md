@@ -34,6 +34,7 @@ Tenho perfil analítico, gosto de resolver problemas complexos, otimizar redes e
 - Fundamentos de Linux – Fiap (2025)
 - Python – Fiap (2025)
 - Liderança – Santander Open Academy (2025)
+- Cybersecurity – Fiap (2025)
 
   
 
