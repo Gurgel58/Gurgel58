@@ -35,6 +35,12 @@ Tenho perfil analítico, gosto de resolver problemas complexos, otimizar redes e
 - Python – Fiap (2025)
 - Liderança – Santander Open Academy (2025)
 - Cybersecurity – Fiap (2025)
+- Bootcamp Santander 2025 - Backend com Python - Dio (2025)
+
+### :computer: [Projetos](https://github.com/Gurgel58/Gurgel58.git):
+
+- [Gerador de Placas no Padrão Mercosul](https://github.com/Gurgel58/Placas-Mercosul.git)
+- [Organizador de Arquivos](https://github.com/Gurgel58/Organizador.git)
 
   
 
